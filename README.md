@@ -1,2 +1,2 @@
 # code-playground
-Toy projects to practice fundamental programming concepts
+A collection of small projects, experiments and implementations created while learning computer science conceps.
